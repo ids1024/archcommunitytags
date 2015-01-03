@@ -1,0 +1,4 @@
+#TODO: Find what other protocols and formats are supported by firefox
+protocol http https ftp 
+format html xhtml xml rss atom
+interface gui gtk
