@@ -1,3 +1,9 @@
-protocol imap smtp
-format maildir mbox mmdf mh
-interface curses
+imap
+smtp
+
+maildir
+mbox
+mmdf
+mh
+
+curses

@@ -1,3 +1,7 @@
-format gif png jpeg tiff
-interface library cli
-library true
+gif
+png
+jpeg
+tiff
+
+library
+cli

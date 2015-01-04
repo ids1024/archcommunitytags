@@ -1,1 +1,1 @@
-interface curses
+curses

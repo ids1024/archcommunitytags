@@ -1,3 +1,9 @@
-format $imlib2.format
-interface gui
-suckless true
+# File formats from imlib2
+gif
+png
+jpeg
+tiff
+
+gui
+
+suckless

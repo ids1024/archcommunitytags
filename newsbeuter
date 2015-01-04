@@ -1,3 +1,6 @@
-protocol http
-format rss atom
-interface curses
+http
+
+rss
+atom
+
+curses
