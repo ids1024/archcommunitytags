@@ -1,1 +1,1 @@
-curses
+tui
